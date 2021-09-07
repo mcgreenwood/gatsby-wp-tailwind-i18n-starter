@@ -1,5 +1,5 @@
 # gatsby-wp-tailwind-i18n-starter
-Gatsby Starter Theme with Tailwind 2.0 for Wordpress (including custom Post Types, Menus, ACF)    
+Gatsby Starter Theme with Tailwind 2.0 for Wordpress (including custom Post Types, Menus, ACF and WP User Authentification)    
 
 # This Starter Includes the following Features
 1. Gatsby 3.0
